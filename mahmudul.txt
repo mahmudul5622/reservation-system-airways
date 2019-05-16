@@ -1,0 +1,16 @@
+MAHMUDUL HASAN
+BSC ENGINEER IN CSE
+BANGLADESH UNIVERSITY OF BUSINESS & TECHNOLOGY
+
+
+funtion used= 
+
+inheritence,
+virtual function
+template
+overloading
+constructor
+encaptulation
+friend function
+polymorphism(encaptulation)
+Generic (template)
